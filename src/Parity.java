@@ -42,7 +42,7 @@ public class Parity {
                 System.out.println("ВОСКРЕСЕНЬЕ");
                 break;
             default:
-            System.out.println("Ваше число не из диапазона чисел от 1 до 7.");
+                System.out.println("Ваше число не из диапазона чисел от 1 до 7.");
         }
 
     }
